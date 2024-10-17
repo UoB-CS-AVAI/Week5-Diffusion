@@ -1,4 +1,4 @@
-Please direct to [lab-Diffusion.ipynb](lab-Diffusion.ipynb) for further experiments.
+Please direct to [lab-Diffusion.ipynb](lab-diffustion_MNIST.ipynb) for further experiments.
 
 ### Additional Resources:
 - To learn more about Diffusion Models, check out [Diffusion-Models-pytorch](https://github.com/dome272/Diffusion-Models-pytorch).
